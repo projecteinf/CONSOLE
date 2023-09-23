@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/projecteinf/Projectes/EF/CONSOLEEF/ConsumerAPIEF/ConsumerAPIEF.csproj",
+      "projectUniqueName": "/home/projecteinf/Projectes/EF/ExempleAPIiPrograma/ConsumerAPIEF/ConsumerAPIEF.csproj",
       "projectName": "ConsumerAPIEF",
-      "projectPath": "/home/projecteinf/Projectes/EF/CONSOLEEF/ConsumerAPIEF/ConsumerAPIEF.csproj",
+      "projectPath": "/home/projecteinf/Projectes/EF/ExempleAPIiPrograma/ConsumerAPIEF/ConsumerAPIEF.csproj",
       "packagesPath": "/home/projecteinf/.nuget/packages/",
-      "outputPath": "/home/projecteinf/Projectes/EF/CONSOLEEF/ConsumerAPIEF/obj/",
+      "outputPath": "/home/projecteinf/Projectes/EF/ExempleAPIiPrograma/ConsumerAPIEF/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/projecteinf/.nuget/NuGet/NuGet.Config"

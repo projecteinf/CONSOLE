@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yUke85km4sAr6l3zEu2m+bhjpPJsTGCdvrpNlSyNzD4O7CRRCsZlCFi51ieRuV+XAT8tqu6PhbhH793Y17RFPA==",
+  "dgSpecHash": "XJX1carUjwvtMiTimmjvz+lRtBRqddhHwTfLBttUIV2G4Nk7fMoR5/H++ju5t4raKWIokO9XOBJzObJ0fd+CTQ==",
   "success": true,
-  "projectFilePath": "/home/projecteinf/Projectes/EF/CONSOLEEF/ConsumerAPIEF/ConsumerAPIEF.csproj",
+  "projectFilePath": "/home/projecteinf/Projectes/EF/ExempleAPIiPrograma/ConsumerAPIEF/ConsumerAPIEF.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
